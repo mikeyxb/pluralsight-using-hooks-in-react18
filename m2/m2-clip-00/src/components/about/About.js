@@ -16,7 +16,7 @@ export default function About() {
                   paramount.
                   <br /> <br />
                   The volunteers not only include the organizers, but all the
-                  speakers in Addition!!
+                  speakers in Addition!
                 </p>
               </div>
             </div>
